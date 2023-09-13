@@ -1,2 +1,5 @@
 # hello-world
-Just another respository
+Hi DWGT1！
+I am faker.I love LOL.
+I will win in the League Of Legends World Chanmpion！
+That is my wish！
